@@ -384,9 +384,9 @@ src/
 - [ ] Enable HTTPS
 - [ ] Setup backup for Elasticsearch data
 
-## 🤝 Contributing
+## 🤝 Credits
 
-This is an assignment submission. Features are implemented according to requirements.
+Developed by Sayantan Choudhury with help of OpenAI.
 
 ## 📄 License
 
@@ -402,4 +402,3 @@ All 6 requirements successfully implemented:
 5. ✅ Frontend-ready API
 6. ✅ RAG-powered suggested replies
 
-**Ready for final interview! 🚀**
